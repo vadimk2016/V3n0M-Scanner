@@ -1,5 +1,6 @@
 #!/usr/bin/env python
 from distutils.core import setup
+import setuptools
 
 setup(name='V3n0M',
       version='419',
